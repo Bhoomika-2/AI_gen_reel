@@ -155,30 +155,6 @@ export const Scene4MultiverseBreach = () => {
         </div>
       </div>
 
-      {/* Event Details Badge */}
-      <div
-        style={{
-          position: 'absolute',
-          top: 130,
-          left: '50%',
-          transform: 'translateX(-50%)',
-          background: 'rgba(5, 10, 28, 0.85)',
-          border: '1px solid rgba(0, 240, 255, 0.5)',
-          borderRadius: 30,
-          padding: '8px 28px',
-          fontFamily: "'Segoe UI', Roboto, sans-serif",
-          fontSize: 15,
-          fontWeight: 700,
-          color: '#00f0ff',
-          letterSpacing: 3,
-          textTransform: 'uppercase',
-          boxShadow: '0 0 20px rgba(0, 240, 255, 0.3)',
-          zIndex: 40,
-        }}
-      >
-        A National Level Tech & Cultural Symposium
-      </div>
-
       {/* Neon Green Glitches Cyber Frame over the Bottom Text */}
       <div
         style={{
